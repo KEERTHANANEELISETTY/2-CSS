@@ -1,0 +1,14 @@
+body,h1,h2,h3,ul,li
+{
+    margin:5;
+    padding:5;
+}
+h1
+{
+    color:darkgreen;
+}
+body
+{
+    background-color: rgb(149, 107, 197);
+    font-family: 'Courier New', Courier, monospace;
+}
